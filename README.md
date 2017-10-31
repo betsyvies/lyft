@@ -20,14 +20,14 @@ Lyft es una empresa de redes de transporte con sede en San Francisco ,California
 
 
 ### Videos Lyft
-  [This link](https://www.youtube.com/watch?v=fLSmUWOYpKw)
-  [This link](https://www.youtube.com/watch?v=V7j8Aqxmbs8)
-  [This link](https://www.youtube.com/watch?v=xj2VWLV0xCU)
+  [Lyft innovacion](https://www.youtube.com/watch?v=fLSmUWOYpKw)
+  [Lyft ](https://www.youtube.com/watch?v=V7j8Aqxmbs8)
+  [Lyft](https://www.youtube.com/watch?v=xj2VWLV0xCU)
 
 ### videos lyft hallowen
-  [This link](https://youtu.be/8-j21rCyVK4)
-  [This link](https://www.youtube.com/user/LyftVideos)
-  [This link](https://youtu.be/1vycaHQgYOs)
+  [filipinas](https://youtu.be/8-j21rCyVK4)
+  [filadelfia](https://www.youtube.com/user/LyftVideos)
+  [EEUU](https://youtu.be/1vycaHQgYOs)
 
 
 ### Colaboradores:
