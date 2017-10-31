@@ -63,8 +63,7 @@ nav {
 .menu li{
     margin: 0 0 0 15px;
     font-size: 1em;
-    letter-spacing: 1px;
-    
+    letter-spacing: 1px;    
     display: inline-block;
     text-decoration: none;
     color: #fff;
@@ -91,6 +90,52 @@ nav {
 }
 
 .form {
-    
+    width: 25%;
+    height: 75%;
+    position: absolute;
+    list-style: none;
+    text-align: left;
+    float: left;
+    right: 15%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #fff;
+    margin-top: 90px;
 }
 
+.container-text {
+    width: 75%;
+}
+
+.container-span {
+    color: #352384;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.container-span-down {
+    color: #352384;
+    font-size: 15px;
+    line-height: 1px;
+}
+
+/*Styles for First-Section*/
+
+.section-letter {
+    width: 100%;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+    background: #76278f;
+}
+
+
+.image {
+    width: 35%;
+    height: 534px;
+}
+
+.image img {
+    width: 100%;
+    height: 105%;
+}
