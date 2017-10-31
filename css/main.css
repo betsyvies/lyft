@@ -91,7 +91,6 @@ nav {
 
 .form {
     width: 25%;
-    height: 75%;
     position: absolute;
     list-style: none;
     text-align: left;
@@ -128,9 +127,27 @@ nav {
     padding: 0;
     background: #76278f;
 }
+.container-letter {
+    width: 75%;
+    padding-top: 100px;
+}
+
+.row {
+    width: 100%;
+    color: #fff;
+    font-size: 
+}
+
+.ride {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 
 
 .image {
+    display: inline-bock;
     width: 35%;
     height: 534px;
 }
