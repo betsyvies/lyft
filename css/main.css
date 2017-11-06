@@ -399,9 +399,14 @@ form {
     padding: 0;
 }
 
+.list ul li:hover {
+    color: #FF00BF;
+}
+
 .list ul li {
     list-style: none;
     margin-bottom: 33px;
+    cursor: pointer;
 }
 
 .icon-black {
